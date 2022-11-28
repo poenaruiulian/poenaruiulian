@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=poenaruiulian&style=flat-square&color=blue" alt=""/>
 </div>
 
+<br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=poenaruiulian&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poenaruiulian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **languages and tools:**  
