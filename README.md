@@ -13,7 +13,7 @@
 
 <br>
 
-[![Anurag's![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poenaruiulian&show_icons=true&theme=radical)
+[![Iulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=poenaruiulian&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poenaruiulian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
