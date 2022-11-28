@@ -10,7 +10,7 @@
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/poenaruiulian/count.svg" />
   </p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poenaruiulian&layout=compact&theme=vision-friendly-dark)
