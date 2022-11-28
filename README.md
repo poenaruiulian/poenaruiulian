@@ -14,7 +14,6 @@
   </p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poenaruiulian&layout=compact&theme=vision-friendly-dark)
-  <a href=#><img src="contributions.svg"></a>
 </div>
 
 
