@@ -1,6 +1,7 @@
 <div align="center">
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+    `Esc` + `:wq`
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/poenaru-iulian-00bb7215a/">
