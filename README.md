@@ -28,4 +28,6 @@
   
 </div>
 
+<!--For the snake game animation: https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775-->
+
 
