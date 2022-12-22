@@ -15,7 +15,7 @@
   
    <br>
   
-![github snake animation](https://raw.githubusercontent.com/poenaruiulian/poenaruiulian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
   
    <br>
 
