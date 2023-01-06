@@ -15,7 +15,7 @@
   
    <br>
   
-  ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg)
+
   
    <br>
 
