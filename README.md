@@ -15,9 +15,9 @@
   
    <br>
   
-![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg)
   
-   <br> 
+   <br>
 
   <p align="center"> 
   Visitor count<br>
@@ -28,6 +28,6 @@
   
 </div>
 
-<!--For the snake game animation: https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775-->
+<!--For the snake game animation: https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775   -->
 
 
