@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
   </div>
   
-  #### `Esc` + `:wq` + `Enter`
+  #### `Esc` + `:wq!` + `Enter`
   
    <br>
   
