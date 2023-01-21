@@ -26,6 +26,8 @@
   
    <br>
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poenaruiulian&layout=compact"/>
+  
 </div>
 
 <!--For the snake game animation: https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775   -->
