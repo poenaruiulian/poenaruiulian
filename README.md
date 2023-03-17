@@ -1,11 +1,10 @@
 <div align="center">
+  
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
   </div>
   
-  #### `Esc` + `:wq!` + `Enter`
-  
-   <br>
+  #### `Esc` + `:wq!` + `Enter` <br>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/iulian-poenaru-00bb7215a/">
@@ -13,19 +12,14 @@
     </a>
   </div>
   
-   <br>
+  <br> ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
   
-  ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg)
-  
-   <br>
-
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/poenaruiulian/count.svg" />
-  </p>
+  </p> <br>
   
-   <br>
-  
+  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,flask,html,css,flutter)](https://skillicons.dev)
   
 </div>
 
