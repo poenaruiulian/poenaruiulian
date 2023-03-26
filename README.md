@@ -12,12 +12,7 @@
     </a>
   </div>
   
-  <br> ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
-  
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/poenaruiulian/count.svg" />
-  </p> <br>
+  ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
   
   [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,html,css,nest,flutter)](https://skillicons.dev)
   
