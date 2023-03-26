@@ -19,7 +19,7 @@
   <img src="https://profile-counter.glitch.me/poenaruiulian/count.svg" />
   </p> <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,html,css,flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,html,css,nest,flutter)](https://skillicons.dev)
   
 </div>
 
