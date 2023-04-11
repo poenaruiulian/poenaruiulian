@@ -14,7 +14,7 @@
   
   ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,html,css,nest,flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,nest,html,css)](https://skillicons.dev)
   
 </div>
 
