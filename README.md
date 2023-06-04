@@ -14,9 +14,9 @@
   
   ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,git,flask,nest,html,css)](https://skillicons.dev)
+  <!-- [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,cs,git,flask,nest,html,css,)](https://skillicons.dev)-->
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poenaruiulian" alt="raevschicatalin" />
+  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poenaruiulian" alt="raevschicatalin" /> -->
   
 </div>
 
