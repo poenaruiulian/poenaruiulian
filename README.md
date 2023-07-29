@@ -12,7 +12,7 @@
     </a>
   </div>
   
-  ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br>
+ <!-- ![Snake animation](https://github.com/poenaruiulian/poenaruiulian/blob/output/github-contribution-grid-snake.svg) <br> -->
   
   <!-- [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,cs,git,flask,nest,html,css,)](https://skillicons.dev)-->
   
