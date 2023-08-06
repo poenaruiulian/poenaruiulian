@@ -16,8 +16,6 @@
   
   <!-- [![My Skills](https://skillicons.dev/icons?i=js,react,python,c,cpp,cs,git,flask,nest,html,css,)](https://skillicons.dev)-->
   
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poenaruiulian" alt="raevschicatalin" /> -->
-  
 </div>
 
 <!--For the snake game animation: https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775   -->
